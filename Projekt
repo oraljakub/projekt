@@ -19,7 +19,7 @@ styles.css – vzhled hry
 main.js – logika hry
 
 Spuštění projektu
-Stačí otevřít soubor index.html v libovolném webovém prohlížeči.
-CSS a JavaScript se načítají automaticky.
-Hra se spustí přímo v prohlížeči, není potřeba nic instalovat.
+Stačí dát všehcny 3 vložit do libovolného textového editoru, např. notepad a správně je pojmenovat,
+pak stačí jen dvojkliknout na index.html
+
 
