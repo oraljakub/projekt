@@ -25,3 +25,8 @@ pak stačí jen dvojkliknout na index.html
 Postup práce
 Nejprve jsem si ujasnil pravidla hry a naplánoval, jak bude fungovat. Poté jsem vytvořil základní strukturu stránky pomocí HTML a postupně jsem ji upravil pomocí CSS, aby hra působila přehledně a vizuálně zajímavě.
 Hlavní částí bylo naprogramování logiky hry v JavaScriptu – vytvoření balíčku karet, tahy hráčů a vyhodnocení výsledku. Nakonec jsem hru testoval a opravil drobné chyby, aby správně fungovala.
+
+Pravidla hry
+Blackjack je založený na jednoduchém principu – hráči se snaží dosáhnout součtu karet co nejblíže číslu 21, ale nesmí ho překročit. 
+V mojí verzi jdou dva hráči proti sobě a střídají se v tazích. Každý má možnost si vzít další kartu, nebo stát. Na konci se určí se vítěz.
+
