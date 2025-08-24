@@ -1,1 +1,24 @@
-aaa
+Popis projektu
+Projekt je webová hra Blackjack pro dva hráče. Hráči se střídají v braní karet a cílem je co nejvíce se přiblížit hodnotě 21, aniž by ji překročili.
+
+Použité technologie
+HTML – struktura stránky, herní plocha, tlačítka, zobrazení karet a výsledků
+CSS – vzhled aplikace (rozložení, barvy, jednoduchý design stolní hry)
+JavaScript – logika celé hry (balíček karet, tahy hráčů, vyhodnocení výsledku)
+
+Funkce hry
+Na začátku se vytvoří balíček 52 karet.
+Každý hráč dostane dvě karty.
+Hráč si může vybrat, jestli si vezme další kartu („Hit“) nebo zůstane stát („Stand“).
+Jakmile oba hráči dohrají, hra spočítá hodnoty karet a určí vítěze.
+Pokud někdo překročí 21, okamžitě prohrává.
+
+Struktura souborů
+index.html – hlavní stránka
+styles.css – vzhled hry
+main.js – logika hry
+
+Spuštění projektu
+Stačí otevřít soubor index.html v libovolném webovém prohlížeči.
+CSS a JavaScript se načítají automaticky.
+Hra se spustí přímo v prohlížeči, není potřeba nic instalovat.
