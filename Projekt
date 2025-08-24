@@ -6,6 +6,9 @@ HTML – struktura stránky, herní plocha, tlačítka, zobrazení karet a výsl
 CSS – vzhled aplikace (rozložení, barvy, jednoduchý design stolní hry)
 JavaScript – logika celé hry (balíček karet, tahy hráčů, vyhodnocení výsledku)
 
+Vzhled
+Chtěl jsem, aby hra byla přehledná a jednoduchá. Pomocí CSS jsem nastavil barvy, tlačítka a rozložení hry tak, aby šlo lehce poznat, kdo má jaké karty. 
+
 Funkce hry
 Na začátku se vytvoří balíček 52 karet.
 Každý hráč dostane dvě karty.
